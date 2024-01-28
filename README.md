@@ -1,16 +1,17 @@
 ### Hi there 👋
+# Welcome to Yazzine's GitHub Repository!
 
-<!--
-**Yazzine02/Yazzine02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a dedicated computer science student with a strong passion for technology. Currently pursuing my studies, I have been actively exploring various aspects of computer science, building a solid foundation in web development,DataBase manipulation and application development.
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: C++ C Python Java
+- Web Technologies: HTML CSS JAVASCRIPT
+- Database Management: SQL PLSQL
+- BlockChain basics and Solidity language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+Apart from coding, I have a deep interest in body building, cooking and video games.
+
+## Contact
+Feel free to reach out to me via email at yassine.qat02@gmail.com or connect with me on [[LinkedIn profile link]](https://www.linkedin.com/in/yassine-qat-9415272ab/).
