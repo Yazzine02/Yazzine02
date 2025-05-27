@@ -8,4 +8,4 @@ I am a dedicated computer science student with a strong passion for technology. 
 Apart from coding, I have a deep interest in body building, cooking and video games.
 
 ## Contact
-Feel free to reach out to me via email at yassine.qat02@gmail.com or connect with me on [[LinkedIn profile link]](https://www.linkedin.com/in/yassine-qat-9415272ab/).
+Feel free to reach out to me via email at yassine.qat02@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yassine-qat-9415272ab/).
